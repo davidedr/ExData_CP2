@@ -1,5 +1,5 @@
 ##
-# Question #5
+# Question #6
 ##
 rm(list = ls())
 setwd('C:/Nuova cartella/Exploratory Data Analysis/Course Project 2 - PM2.5')
